@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668548278 source:d:\projects\geneticalgorithmforsmoothcurvefitting\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<time.h>
+	<algorithm>
+
